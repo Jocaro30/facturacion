@@ -1,0 +1,5 @@
+package com.webservice.uts.models.dao;
+
+public interface IFacturaDao {
+
+}
